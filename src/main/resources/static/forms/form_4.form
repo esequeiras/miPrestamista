@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Solicitar prenda",
+      "type": "text",
+      "id": "Field_1wqguf8"
+    },
+    {
+      "values": [
+        {
+          "value": "si",
+          "label": "si"
+        },
+        {
+          "label": "no",
+          "value": "no"
+        }
+      ],
+      "label": "prenda de una propiedad",
+      "type": "radio",
+      "id": "Field_0jgrz47",
+      "key": "prenda"
+    }
+  ],
+  "type": "default",
+  "id": "form4"
+}

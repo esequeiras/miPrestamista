@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "label": "monto aprobado",
+      "type": "textfield",
+      "id": "Field_09l2gq1",
+      "key": "montoAprobado"
+    }
+  ],
+  "type": "default",
+  "id": "form6"
+}

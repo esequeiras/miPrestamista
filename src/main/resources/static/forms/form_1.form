@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Solicitar prestamo",
+      "type": "text",
+      "id": "Field_0y0hsmj"
+    },
+    {
+      "label": "Nombre",
+      "type": "textfield",
+      "id": "Field_183xhd9",
+      "key": "nombre"
+    },
+    {
+      "label": "Apellido 1",
+      "type": "textfield",
+      "id": "Field_0ak0lio",
+      "key": "apellido1"
+    },
+    {
+      "label": "Apellido 2",
+      "type": "textfield",
+      "id": "Field_0370opy",
+      "key": "apellido2"
+    },
+    {
+      "label": "ingreso mensual",
+      "type": "number",
+      "id": "Field_1f42ays",
+      "key": "ingreso"
+    },
+    {
+      "values": [
+        {
+          "label": "Independiente",
+          "value": "independiente"
+        },
+        {
+          "value": "planilla",
+          "label": "En planilla"
+        }
+      ],
+      "label": "Tipo de empleado",
+      "type": "radio",
+      "id": "Field_019396s",
+      "key": "tipo",
+      "validate": {
+        "required": false
+      }
+    }
+  ],
+  "type": "default",
+  "id": "form1"
+}

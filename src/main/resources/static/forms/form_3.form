@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Solicitar Monto",
+      "type": "text",
+      "id": "Field_150z76p"
+    },
+    {
+      "label": "Ingrese el monto a solicitar",
+      "type": "number",
+      "id": "Field_159r3qx",
+      "key": "monto"
+    }
+  ],
+  "type": "default",
+  "id": "form3"
+}

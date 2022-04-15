@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Estados contables auditados",
+      "type": "text",
+      "id": "Field_0jq6di4"
+    },
+    {
+      "values": [
+        {
+          "label": "Sí",
+          "value": "si"
+        }
+      ],
+      "label": "presenta los estados?",
+      "type": "radio",
+      "id": "Field_1xlya2d",
+      "key": "estados"
+    }
+  ],
+  "type": "default",
+  "id": "form2"
+}

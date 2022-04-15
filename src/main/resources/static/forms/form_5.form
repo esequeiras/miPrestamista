@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Firma de contrato",
+      "type": "text",
+      "id": "Field_1arzllx"
+    },
+    {
+      "values": [
+        {
+          "value": "si",
+          "label": "Sí"
+        },
+        {
+          "label": "No",
+          "value": "no"
+        }
+      ],
+      "label": "Firma contrato?",
+      "type": "radio",
+      "id": "Field_09up5vg",
+      "key": "contrato"
+    }
+  ],
+  "type": "default",
+  "id": "form5"
+}
